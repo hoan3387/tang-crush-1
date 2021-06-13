@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Hey Việt Anh!',
+    introTitle: 'Hey Huy Hoàng!',
     introDesc: `Cậu biết gì không
     Tôi là một khách hàng khó tính đấy
     Biết sao không?
@@ -11,9 +11,9 @@ const CONFIG = {
     btnNo: 'Không, chia buồn :3',
     question:'Một tí lý do nào :>',
     btnReply: 'Gửi cho người có aura thánh thiện',
-    reply: 'Lò Vé <3',
+    reply: 'Iu Nhân nhiều <3',
     mess: 'Tôi biết mà :> :> :>',
-    messDesc: 'Đừng có mà bơ toi nữa :(( chán quớ',
+    messDesc: 'Yêu thương toi nhiều hơn nhé',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.instagram.com/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/'
 }
